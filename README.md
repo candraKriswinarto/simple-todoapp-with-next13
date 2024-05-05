@@ -10,6 +10,7 @@ To see a step-by-step guide on how to build this project, check out our [YouTube
 
 - Clone the repository
 - Install dependencies with npm install
+- Run the json server with this command "json-server --watch data/todos.json --port 3001"
 - Run the development server with npm run dev
 - Navigate to http://localhost:3000 in your web browser
 
